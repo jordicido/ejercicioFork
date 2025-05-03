@@ -1,0 +1,1 @@
+Hola Jordi. Soy Sergio. Siento no poder estar en las clases en directo pero practicamente solo puedo dedicarle tiempo los fines de semana a saco...asi que voy algo retrasado... pero voy. 
