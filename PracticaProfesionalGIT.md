@@ -16,3 +16,5 @@ Estoy practicando flujo de trabajo real en Git:
 ## Nota 
 
 Este archivo ya esta siendo seguido por Git.
+
+Prueba steged
