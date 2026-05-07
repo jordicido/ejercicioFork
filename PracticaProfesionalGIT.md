@@ -12,3 +12,7 @@ Estoy practicando flujo de trabajo real en Git:
 8. Push
 9. Pull request
 10. Merge
+
+## Nota 
+
+Este archivo ya esta siendo seguido por Git.
